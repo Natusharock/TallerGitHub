@@ -1,3 +1,4 @@
 Nombre: Danna Sofia Rodriguez Delgado
 Carrera: TecAlianza
 Curso: Decimo A
+git init
